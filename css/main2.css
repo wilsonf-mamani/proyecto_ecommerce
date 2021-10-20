@@ -1,1 +1,45 @@
+*{
+    /* border: 1px solid red; */
+    padding: 0px;
+    margin: 0px;
 
+}
+
+.contenedor_imagenes{
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contenedor{
+    width: 200px;
+    padding: 0px 10px;
+}
+
+.contenedor:hover{
+    border: 1px solid black;
+    transform: scale(1.1); 
+}
+
+.imagen{
+    width: 100%;   
+}
+
+.precio{
+    background-color: #eee;
+    color: black;
+}
+
+.detalles{
+    color: black;
+}
+
+.modelo{
+    font-size: 12px;
+}
+
+.tipo{
+    font-size: 10px;
+    color: gray;
+}
