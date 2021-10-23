@@ -13,11 +13,12 @@
   justify-content: space-between;
 }
 
-.contenedor1 h1 {
+.contenedor1 p {
   color: white;
   flex-grow: 1;
   text-align: center;
   font-size: 11px;
+  cursor: pointer;
 }
 
 .logo_adidas  {
