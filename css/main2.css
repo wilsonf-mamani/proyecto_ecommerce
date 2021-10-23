@@ -5,6 +5,7 @@
 
 }
 
+/* ######## Primera parte MAIN2 ####### */
 .contenedor_imagenes{
     display: flex;
     justify-content: space-between;
@@ -43,3 +44,45 @@
     font-size: 10px;
     color: gray;
 }
+
+
+/* ###### Segunda parte Main2 ####### */
+.contenedor2{
+    width: 300px;
+    padding: 0px 10px;
+}
+
+.imagen2{
+    width: 100%;   
+}
+
+.subtitulo{
+    background-color: #eee;
+    color: black;
+}
+
+.detalles2{
+    color: black;
+}
+
+.descripcion{
+    font-size: 12px;
+}
+
+.opcion{
+    font-size: 10px;
+    color: gray;
+}
+
+.video video{
+    width: 100%;
+}
+
+h4{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-family: "AdineuePRO",Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: 40px;
+}
+
