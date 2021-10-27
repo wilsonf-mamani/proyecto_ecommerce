@@ -1,1 +1,19 @@
+*{
+    /* border: 1px solid red; */
+    margin: 0px;
+    padding: 0px;
+}
 
+
+
+.imagen_main1{
+    position: absolute;
+}
+
+.div_sobrepuesto{
+    position:relative;
+    top: 300px;
+    left: 30%;
+    z-index: 100;
+    color: white;
+}
